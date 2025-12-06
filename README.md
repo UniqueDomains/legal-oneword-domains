@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .LEGAL one-word domains still available to buy.
 
-This dataset contains 4,310 .LEGAL one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,307 .LEGAL one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.LEGAL one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=legal-oneword-domains&utm_content=description.top) (4,312) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
