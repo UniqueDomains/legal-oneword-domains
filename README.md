@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .LEGAL one-word domains still available to buy.
 
-This dataset contains 8,688 .LEGAL one word domains with availability, attractiveness and demand scores.
+This dataset contains 8,686 .LEGAL one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.LEGAL one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=legal-oneword-domains&utm_content=description.top) (8,687) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -44,7 +44,7 @@ If you want to search & filters the complete database of [.LEGAL one word domain
 | abide.legal      | available | 94       | 15%    | 5      |           |         |         |
 | abiding.legal    | available | 106      | 5%     | 7      |           |         |         |
 | abient.legal     | available | 54       | 1%     | 6      |           |         |         |
-| abit.legal       | available | 66       | 12%    | 5      |           |         |         |
+| abit.legal       | available | 68       | 12%    | 5      |           |         |         |
 | abject.legal     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.legal     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.legal  | available | 78       | 1%     | 9      |           |         |         |
@@ -88,9 +88,9 @@ If you want to search & filters the complete database of [.LEGAL one word domain
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,756       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 63,843       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,573    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 30,719       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 64,044       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,599,086    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
