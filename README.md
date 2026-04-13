@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .legal one-word domains from Uniqu
 
 **Public extract:** 8,707 rows · **Live catalog:** 8,707 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/legal`  
 **Best for:** founders, investors, studios
 
@@ -82,7 +82,7 @@ print(df.head())
 | terminal.legal  | available | $9.99     | $92.99        | 104            | 36     | 8      | name.com         |
 | ada.legal       | resell    | —         | —             | 62             | 53     | 3      | GoDaddy.com, LLC |
 | expert.legal    | premium   | $500      | $500          | 104            | 30     | 6      | name.com         |
-| like.legal      | available | $9.99     | $92.99        | 84             | 36     | 4      | name.com         |
+| some.legal      | available | $9.99     | $92.99        | 80             | 36     | 4      | name.com         |
 | alpha.legal     | resell    | —         | —             | 90             | 52     | 5      | Edomains LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LEGAL One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LEGAL One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
