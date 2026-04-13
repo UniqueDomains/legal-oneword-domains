@@ -66,20 +66,20 @@ print(df.head())
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | hotel.legal     | available | $88.98    | —             | 70             | 45     | 5      | namecheap        |
 | easy.legal      | resell    | —         | —             | 128            | 68     | 4      | Porkbun LLC      |
-| fast.legal      | premium   | $500      | $500          | 82             | 53     | 4      | name.com         |
+| fast.legal      | premium   | $500      | $500          | 82             | 52     | 4      | name.com         |
 | nice.legal      | available | $9.99     | $92.99        | 86             | 44     | 4      | name.com         |
 | domain.legal    | resell    | —         | —             | 80             | 64     | 6      | NameCheap, Inc.  |
 | travel.legal    | premium   | $520      | $520          | 115            | 48     | 6      | namecheap        |
-| daily.legal     | available | $9.99     | $92.99        | 74             | 40     | 5      | name.com         |
+| eternal.legal   | available | $9.99     | $92.99        | 92             | 39     | 7      | name.com         |
 | ace.legal       | resell    | —         | —             | 88             | 57     | 3      | GoDaddy.com, LLC |
 | quick.legal     | premium   | $250      | $250          | 72             | 41     | 5      | name.com         |
-| eternal.legal   | available | $9.99     | $92.99        | 92             | 39     | 7      | name.com         |
+| daily.legal     | available | $9.99     | $92.99        | 74             | 39     | 5      | name.com         |
 | smart.legal     | resell    | —         | —             | 74             | 56     | 5      | GoDaddy.com, LLC |
 | study.legal     | premium   | $128.70   | $128.70       | 102            | 32     | 5      | namecheap        |
 | conscious.legal | available | $9.99     | $92.99        | 89             | 38     | 9      | name.com         |
 | bot.legal       | resell    | —         | —             | 98             | 53     | 3      | Dynadot Inc      |
 | adult.legal     | premium   | $250      | $250          | 110            | 30     | 5      | name.com         |
-| terminal.legal  | available | $9.99     | $92.99        | 104            | 36     | 8      | name.com         |
+| terminal.legal  | available | $9.99     | $92.99        | 104            | 37     | 8      | name.com         |
 | ada.legal       | resell    | —         | —             | 62             | 53     | 3      | GoDaddy.com, LLC |
 | expert.legal    | premium   | $500      | $500          | 104            | 30     | 6      | name.com         |
 | some.legal      | available | $9.99     | $92.99        | 80             | 36     | 4      | name.com         |
