@@ -290,6 +290,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1b1b8ac2-c171-4a57-b601-07232bd8b06e,shareholders.legal,available,9.99,,50,5,12,name.com,,
 1b1f7346-d19b-4a9f-9740-b16b61c7c02d,filesize.legal,available,9.99,,64,2,9,name.com,,
 1b23d30e-5373-497a-b19d-14289316ef15,sizes.legal,available,9.99,,50,5,5,name.com,,
+1b2bd4c8-3a44-4f79-ada1-40f484537299,ing.legal,available,9.99,,68,34,3,name.com,,
 1b6d32ab-c613-4fc6-bf5a-5f2869e5c897,ranted.legal,available,9.99,,48,2,6,name.com,,
 1ba15789-c89f-4a38-af47-ceb57f5da71f,comeupagainst.legal,available,9.99,,38,1,15,name.com,,
 1bfb1290-9cbb-4601-a9b1-3a83acc66e42,shadows.legal,available,9.99,,54,16,7,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5a6892bf-c877-4683-8e7e-79a86c9d18fa,gototherestroom.legal,available,9.99,,56,1,18,name.com,,
 5a705a93-fa33-4b89-b322-59bddea58fec,rumcake.legal,available,9.99,,81,3,8,name.com,,
 5ab9b3d3-1911-4c34-8698-cb4e636c35c7,throws.legal,available,9.99,,52,5,6,name.com,,
-5ac63f96-e631-448b-9390-84deb532e23d,designs.legal,available,9.99,,72,21,7,name.com,,
