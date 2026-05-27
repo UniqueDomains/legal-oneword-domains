@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .legal one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,634 domains · **Median ask:** $17.27 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/legal`  
 **Best for:** founders, investors, studios
 
@@ -73,13 +73,13 @@ print(df.head())
 | pros.legal               | premium   | $242      | $242          | 53             | 23     | 4      | namesilo         |
 | letsgo.legal             | available | $9.99     | —             | 57             | 31     | 7      | name.com         |
 | guns.legal               | premium   | $123.75   | —             | 68             | 22     | 4      | name.com         |
-| popup.legal              | available | $9.99     | —             | 84             | 29     | 6      | name.com         |
-| LongBeach.legal          | premium   | $138.60   | $138.60       | 62             | 11     | 10     | namecheap        |
-| commonground.legal       | available | $9.99     | —             | 74             | 28     | 13     | name.com         |
+| gods.legal               | available | $9.99     | —             | 72             | 29     | 4      | name.com         |
+| LongBeach.legal          | premium   | $138.60   | $138.60       | 62             | 12     | 10     | namecheap        |
+| popup.legal              | available | $9.99     | —             | 84             | 28     | 6      | name.com         |
 | Americans.legal          | premium   | $138.60   | $138.60       | 56             | 10     | 9      | namecheap        |
-| gems.legal               | available | $9.99     | —             | 70             | 28     | 4      | name.com         |
+| commonground.legal       | available | $9.99     | —             | 74             | 28     | 13     | name.com         |
 | VirginiaBeach.legal      | premium   | $138.60   | $138.60       | 58             | 9      | 14     | namecheap        |
-| gods.legal               | available | $9.99     | —             | 72             | 27     | 4      | name.com         |
+| gems.legal               | available | $9.99     | —             | 70             | 28     | 4      | name.com         |
 | agreements.legal         | premium   | $87.99    | —             | 54             | 6      | 10     | name.com         |
 | drops.legal              | available | $9.99     | —             | 52             | 25     | 5      | name.com         |
 | DistrictofColumbia.legal | premium   | $138.60   | $138.60       | 52             | 4      | 20     | namecheap        |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LEGAL One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LEGAL One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
