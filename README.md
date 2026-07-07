@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .legal one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,634 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,634 domains · **Median ask:** $17.27 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,634 domains · **Median ask:** $15.01 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/legal`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/legal`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .LEGAL one-word domain
 
 ### Files
 
-- `legal.csv` — public CSV extract (1,000 rows)
-- `legal.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `legal.csv`, public CSV extract (1,000 rows)
+- `legal.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| WiFi.legal               | available | $88.98    | —             | 83             | 37     | 5      | namecheap        |
-| Westminster.legal        | resell    | —         | —             | 70             | 12     | 11     | GoDaddy.com, LLC |
-| rewards.legal            | premium   | $242      | $242          | 62             | 30     | 7      | namesilo         |
-| tokens.legal             | available | $9.99     | —             | 51             | 36     | 6      | name.com         |
-| schools.legal            | premium   | $500      | —             | 72             | 24     | 7      | name.com         |
-| ing.legal                | available | $9.99     | —             | 68             | 34     | 3      | name.com         |
-| pros.legal               | premium   | $242      | $242          | 53             | 23     | 4      | namesilo         |
-| letsgo.legal             | available | $9.99     | —             | 57             | 31     | 7      | name.com         |
-| guns.legal               | premium   | $123.75   | —             | 68             | 22     | 4      | name.com         |
-| gods.legal               | available | $9.99     | —             | 72             | 29     | 4      | name.com         |
-| LongBeach.legal          | premium   | $138.60   | $138.60       | 62             | 12     | 10     | namecheap        |
-| popup.legal              | available | $9.99     | —             | 84             | 28     | 6      | name.com         |
-| Americans.legal          | premium   | $138.60   | $138.60       | 56             | 10     | 9      | namecheap        |
-| commonground.legal       | available | $9.99     | —             | 74             | 28     | 13     | name.com         |
-| VirginiaBeach.legal      | premium   | $138.60   | $138.60       | 58             | 9      | 14     | namecheap        |
-| gems.legal               | available | $9.99     | —             | 70             | 28     | 4      | name.com         |
-| agreements.legal         | premium   | $87.99    | —             | 54             | 6      | 10     | name.com         |
-| drops.legal              | available | $9.99     | —             | 52             | 25     | 5      | name.com         |
-| DistrictofColumbia.legal | premium   | $138.60   | $138.60       | 52             | 4      | 20     | namecheap        |
-| Trex.legal               | available | $88.98    | —             | 80             | 24     | 5      | namecheap        |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
+| ago.legal   | available | $9.99     | $92.99        | medium         | low    | 3      | name.com                                                           |
+| apt.legal   | resell    | —         | —             | high           | low    | 3      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
+| bud.legal   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                           |
+| any.legal   | available | $9.99     | —             | high           | medium | 3      | name.com                                                           |
+| big.legal   | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                                                       |
+| lol.legal   | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                           |
+| bce.legal   | available | $9.99     | —             | medium         | low    | 3      | name.com                                                           |
+| dna.legal   | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                                        |
+| what.legal  | premium   | $242      | $242          | high           | low    | 4      | namesilo                                                           |
+| cry.legal   | available | $9.99     | —             | high           | low    | 3      | name.com                                                           |
+| hot.legal   | resell    | —         | —             | high           | low    | 3      | Porkbun LLC                                                        |
+| blink.legal | premium   | $500      | —             | high           | medium | 5      | name.com                                                           |
+| DJI.legal   | available | $9.99     | —             | high           | low    | 3      | name.com                                                           |
+| sue.legal   | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                                   |
+| price.legal | premium   | $242      | $242          | medium         | low    | 5      | namesilo                                                           |
+| fit.legal   | available | $9.99     | —             | high           | medium | 3      | name.com                                                           |
+| xxx.legal   | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC                                                   |
+| seoul.legal | premium   | $242      | $242          | high           | low    | 5      | namesilo                                                           |
+| hum.legal   | available | $9.99     | —             | high           | low    | 3      | name.com                                                           |
+| you.legal   | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                                                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely focused on one-word .legal domains. The names range from direct, compact terms such as ink.legal and think.legal to broader dictionary words like regional.legal, comic.legal, and nice.legal. For founders, the key question is whether the word feels credible, memorable, and easy to say in a legal context. For investors, the main test is whether the word has resale logic within a narrow TLD: clarity, relevance to legal buyers, and realistic pricing. With a median ask of 17.28 across 11,622 domains, the strongest options tend to be the names that balance brevity, legibility, and legal-market fit without sounding forced or ambiguous.
+This set contains one-word .legal domain names built around law, compliance, and professional services themes. Names range from playful phrases like bonappetit.legal to direct terms like ladies.legal and goodnews.legal, giving both investors and founders a wide net to work from. With a median asking price near $15, entry cost across this selection stays low relative to legacy TLDs, though renewal and long-term positioning should still guide any decision. When comparing these domains, focus on clarity, memorability, and how well the name signals trust for a legal or compliance-focused audience.
 
-- Favor words that sound credible beside the .legal ending
-- Short names like ink.legal are easier to recall and repeat
-- Check if the word feels legal, neutral, or off-category
-- Avoid names that create trademark or meaning confusion
+- 11,634 one-word .legal domains in this selection
+- Median asking price near $15 across the set
+- Names span legal, compliance, and professional themes
+- Updated daily to reflect current pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LEGAL One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LEGAL One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
