@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .legal one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,477 domains · **Median ask:** $13.22 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/legal`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
+| half.legal  | available | $9.99     | —             | high           | low    | 4      | name.com                                                           |
 | ago.legal   | available | $9.99     | $92.99        | medium         | low    | 3      | name.com                                                           |
 | apt.legal   | resell    | —         | —             | high           | low    | 3      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
 | bud.legal   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                           |
@@ -83,7 +84,6 @@ print(df.head())
 | xxx.legal   | resell    | —         | —             | low            | medium | 3      | GoDaddy.com, LLC                                                   |
 | price.legal | premium   | $242      | $242          | medium         | low    | 5      | namesilo                                                           |
 | hum.legal   | available | $9.99     | —             | high           | low    | 3      | name.com                                                           |
-| you.legal   | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                                                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LEGAL One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LEGAL One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
