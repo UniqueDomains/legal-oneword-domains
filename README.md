@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .legal one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,044 domains · **Median ask:** $13.17 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-21
+**Last updated:** 2026-08-22
 **Canonical page:** `https://unique.domains/domains/tld/legal`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
-| ago.legal   | available | $9.99     | $92.99        | medium         | low    | 3      | name.com                                                           |
-| apt.legal   | resell    | —         | —             | high           | low    | 3      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
-| bud.legal   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                           |
-| any.legal   | available | $9.99     | —             | high           | medium | 3      | name.com                                                           |
-| big.legal   | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                                                       |
-| lol.legal   | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                           |
-| bce.legal   | available | $9.99     | —             | medium         | low    | 3      | name.com                                                           |
-| dna.legal   | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                                        |
-| arab.legal  | premium   | $242      | $242          | low            | low    | 4      | namesilo                                                           |
-| cry.legal   | available | $9.99     | —             | high           | low    | 3      | name.com                                                           |
-| hot.legal   | resell    | —         | —             | high           | low    | 3      | Porkbun LLC                                                        |
-| what.legal  | premium   | $242      | $242          | high           | low    | 4      | namesilo                                                           |
-| DJI.legal   | available | $9.99     | —             | high           | low    | 3      | name.com                                                           |
-| sue.legal   | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                                   |
-| blink.legal | premium   | $500      | —             | high           | medium | 5      | name.com                                                           |
-| fit.legal   | available | $9.99     | —             | high           | medium | 3      | name.com                                                           |
-| xxx.legal   | resell    | —         | —             | low            | medium | 3      | GoDaddy.com, LLC                                                   |
-| price.legal | premium   | $242      | $242          | medium         | low    | 5      | namesilo                                                           |
-| hat.legal   | available | $9.99     | $92.99        | medium         | low    | 3      | name.com                                                           |
-| you.legal   | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                                                       |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
+| half.legal      | available | $9.99     | —             | high           | low    | 4      | name.com                                                           |
+| here.legal      | available | —         | —             | high           | low    | 4      | —                                                                  |
+| period.legal    | available | $9.99     | —             | high           | low    | 6      | name.com                                                           |
+| jesus.legal     | available | $9.99     | —             | high           | medium | 5      | name.com                                                           |
+| something.legal | available | $9.99     | —             | high           | low    | 9      | name.com                                                           |
+| what.legal      | premium   | $242      | $242          | high           | low    | 4      | namesilo                                                           |
+| YouTube.legal   | available | —         | —             | high           | medium | 7      | —                                                                  |
+| ago.legal       | available | $9.99     | $92.99        | medium         | low    | 3      | name.com                                                           |
+| apt.legal       | resell    | —         | —             | high           | low    | 3      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
+| bud.legal       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                           |
+| any.legal       | available | $9.99     | —             | high           | medium | 3      | name.com                                                           |
+| big.legal       | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                                                       |
+| lol.legal       | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                           |
+| bce.legal       | available | $9.99     | —             | medium         | low    | 3      | name.com                                                           |
+| dna.legal       | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                                        |
+| arab.legal      | premium   | $242      | $242          | low            | low    | 4      | namesilo                                                           |
+| cry.legal       | available | $9.99     | —             | high           | low    | 3      | name.com                                                           |
+| hot.legal       | resell    | —         | —             | high           | low    | 3      | Porkbun LLC                                                        |
+| DJI.legal       | available | $9.99     | —             | high           | low    | 3      | name.com                                                           |
+| sue.legal       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LEGAL One-Word Domains*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LEGAL One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
